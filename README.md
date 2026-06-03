@@ -34,7 +34,6 @@ This project studies how global, regional, and domestic climate indicators affec
 - NumPy
 - Matplotlib
 - SciPy
-- Statistical Programming
 - Data Visualization
 
 ## Files
